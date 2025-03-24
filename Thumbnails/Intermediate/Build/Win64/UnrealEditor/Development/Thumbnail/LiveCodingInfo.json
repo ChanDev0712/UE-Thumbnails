@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Thumbnail.cpp.obj": [
+			"Thumbnail.init.gen.cpp.obj",
+			"ThumbnailBPLibrary.gen.cpp.obj",
+			"Thumbnail.cpp.obj",
+			"ThumbnailBPLibrary.cpp.obj"
+		]
+	}
+}

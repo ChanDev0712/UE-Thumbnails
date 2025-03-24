@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Thumbnail.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\CurrentlyWorkingProjects\PluginDevelopment\Intermediate\Build\Win64\PluginDevelopmentEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\CurrentlyWorkingProjects\PluginDevelopment\Plugins\Thumbnails\Intermediate\Build\Win64\UnrealEditor\Development\Thumbnail\Module.Thumbnail.cpp.obj"
+"E:\CurrentlyWorkingProjects\PluginDevelopment\Plugins\Thumbnails\Intermediate\Build\Win64\UnrealEditor\Development\Thumbnail\Default.rc2.res"
+/OUT:"E:\CurrentlyWorkingProjects\PluginDevelopment\Plugins\Thumbnails\Intermediate\Build\Win64\UnrealEditor\Development\Thumbnail\UnrealEditor-Thumbnail.lib"

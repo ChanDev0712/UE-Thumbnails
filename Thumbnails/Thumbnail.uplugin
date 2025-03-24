@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.1.2",
+	"FriendlyName": "Thumbnail",
+	"Description": "Creating thumbnails from objects in Unreal Engine involves capturing the render of an object and converting it into a Texture2D format. This process can be useful for generating preview images or icons for assets within the engine",
+	"Category": "Editor",
+	"CreatedBy": "ChanDev0712",
+	"CreatedByURL": "https://github.com/ChanDev0712/UE-Thumbnails",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Thumbnail",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
